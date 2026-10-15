@@ -6,7 +6,7 @@ import urllib.request
 import feedparser
 
 # ====== A MODIFIER ======
-MOTS_CLES = ["intelligence artificielle", "supply chain"]
+MOTS_CLES = ["bon plan sneakers", "promo Nike", "soldes baskets", "Maison Margiela promo"]
 LANGUE, PAYS = "fr", "FR"
 MAX_PAR_SUJET = 5
 # ========================
